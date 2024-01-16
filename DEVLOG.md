@@ -120,3 +120,4 @@
 - **[2024-01-15 17:16:59]** (118/2000) test(navigation): streamline network interceptors and retry policy
 - **[2024-01-15 18:33:29]** (119/2000) chore(cache): update localization files and currency formatters
 - **[2024-01-15 19:12:59]** (120/2000) feat(auth): implement responsive layout adjustments
+- **[2024-01-16 09:17:13]** (121/2000) fix(catalog): fine-tune dark mode color palette
