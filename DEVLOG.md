@@ -161,3 +161,4 @@
 - **[2024-01-20 18:38:09]** (159/2000) chore(cache): update localization files and currency formatters
 - **[2024-01-20 20:17:39]** (160/2000) feat(auth): implement responsive layout adjustments
 - **[2024-01-21 09:15:53]** (161/2000) fix(catalog): fine-tune dark mode color palette
+- **[2024-01-21 10:54:23]** (162/2000) refactor(payment): refactor service locator and dependency injection
