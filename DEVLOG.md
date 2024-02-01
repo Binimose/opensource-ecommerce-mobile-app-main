@@ -251,3 +251,4 @@
 - **[2024-02-01 09:19:57]** (249/2000) fix(cache): update data models and serialization logic
 - **[2024-02-01 10:58:27]** (250/2000) refactor(auth): add comprehensive unit and widget tests
 - **[2024-02-01 12:37:57]** (251/2000) perf(catalog): update documentation and configuration guidelines
+- **[2024-02-01 13:54:27]** (252/2000) style(payment): refactor state management with Riverpod/Bloc
