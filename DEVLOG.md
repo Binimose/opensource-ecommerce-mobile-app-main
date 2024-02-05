@@ -280,3 +280,4 @@
 - **[2024-02-04 17:15:39]** (278/2000) test(navigation): streamline network interceptors and retry policy
 - **[2024-02-04 18:39:09]** (279/2000) chore(cache): update localization files and currency formatters
 - **[2024-02-04 19:11:39]** (280/2000) feat(auth): implement responsive layout adjustments
+- **[2024-02-05 09:16:53]** (281/2000) fix(catalog): fine-tune dark mode color palette
