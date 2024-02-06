@@ -294,3 +294,4 @@
 - **[2024-02-06 13:59:07]** (292/2000) style(payment): refactor state management with Riverpod/Bloc
 - **[2024-02-06 15:38:37]** (293/2000) docs(navigation): fix null safety edge cases in response parser
 - **[2024-02-06 16:10:07]** (294/2000) test(cache): clean up unused assets and optimize build config
+- **[2024-02-06 18:34:37]** (295/2000) chore(auth): add input validation and sanitize payload
