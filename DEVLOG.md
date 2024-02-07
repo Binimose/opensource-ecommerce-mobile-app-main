@@ -298,3 +298,4 @@
 - **[2024-02-06 19:13:07]** (296/2000) feat(catalog): improve memory allocation during image loading
 - **[2024-02-07 09:18:21]** (297/2000) fix(payment): implement secure token storage and session recovery
 - **[2024-02-07 10:57:51]** (298/2000) refactor(navigation): streamline network interceptors and retry policy
+- **[2024-02-07 12:36:21]** (299/2000) perf(cache): update localization files and currency formatters
