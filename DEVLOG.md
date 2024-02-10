@@ -321,3 +321,4 @@
 - **[2024-02-09 18:37:49]** (319/2000) chore(cache): update localization files and currency formatters
 - **[2024-02-09 20:16:19]** (320/2000) feat(auth): implement responsive layout adjustments
 - **[2024-02-10 09:21:33]** (321/2000) fix(catalog): fine-tune dark mode color palette
+- **[2024-02-10 10:53:03]** (322/2000) refactor(payment): refactor service locator and dependency injection
