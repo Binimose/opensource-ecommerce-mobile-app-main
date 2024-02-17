@@ -380,3 +380,4 @@
 - **[2024-02-17 10:53:11]** (378/2000) refactor(navigation): streamline network interceptors and retry policy
 - **[2024-02-17 12:32:41]** (379/2000) perf(cache): update localization files and currency formatters
 - **[2024-02-17 13:56:11]** (380/2000) style(auth): implement responsive layout adjustments
+- **[2024-02-17 15:35:41]** (381/2000) docs(catalog): fine-tune dark mode color palette
