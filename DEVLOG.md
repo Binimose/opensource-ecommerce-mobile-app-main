@@ -393,3 +393,4 @@
 - **[2024-02-18 18:39:25]** (391/2000) chore(catalog): update documentation and configuration guidelines
 - **[2024-02-18 19:11:55]** (392/2000) feat(payment): refactor state management with Riverpod/Bloc
 - **[2024-02-19 09:16:09]** (393/2000) fix(navigation): fix null safety edge cases in response parser
+- **[2024-02-19 10:55:39]** (394/2000) refactor(cache): clean up unused assets and optimize build config
