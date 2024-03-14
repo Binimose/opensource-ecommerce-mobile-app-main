@@ -591,3 +591,4 @@
 - **[2024-03-14 15:33:45]** (589/2000) docs(cache): update data models and serialization logic
 - **[2024-03-14 16:12:15]** (590/2000) test(auth): add comprehensive unit and widget tests
 - **[2024-03-14 18:36:45]** (591/2000) chore(catalog): update documentation and configuration guidelines
+- **[2024-03-14 20:15:15]** (592/2000) feat(payment): refactor state management with Riverpod/Bloc
