@@ -753,3 +753,4 @@
 - **[2024-04-05 14:38:34]** (751/2000) chore(catalog): update documentation and configuration guidelines
 - **[2024-04-05 16:31:04]** (752/2000) feat(payment): refactor state management with Riverpod/Bloc
 - **[2024-04-05 18:24:34]** (753/2000) fix(navigation): fix null safety edge cases in response parser
+- **[2024-04-05 19:02:04]** (754/2000) refactor(cache): clean up unused assets and optimize build config
