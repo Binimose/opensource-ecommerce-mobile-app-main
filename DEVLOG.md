@@ -794,3 +794,4 @@
 - **[2024-04-11 12:00:10]** (792/2000) feat(payment): refactor state management with Riverpod/Bloc
 - **[2024-04-11 14:38:40]** (793/2000) fix(navigation): fix null safety edge cases in response parser
 - **[2024-04-11 16:31:10]** (794/2000) refactor(cache): clean up unused assets and optimize build config
+- **[2024-04-11 18:24:40]** (795/2000) perf(auth): add input validation and sanitize payload
