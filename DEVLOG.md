@@ -800,3 +800,4 @@
 - **[2024-04-12 10:07:11]** (798/2000) test(navigation): streamline network interceptors and retry policy
 - **[2024-04-12 12:00:41]** (799/2000) chore(cache): update localization files and currency formatters
 - **[2024-04-12 14:38:11]** (800/2000) feat(auth): implement responsive layout adjustments
+- **[2024-04-12 16:31:41]** (801/2000) fix(catalog): fine-tune dark mode color palette
