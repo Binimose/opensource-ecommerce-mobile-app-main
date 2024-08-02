@@ -940,3 +940,4 @@
 - **[2024-08-02 10:07:31]** (938/2000) refactor(navigation): streamline network interceptors and retry policy
 - **[2024-08-02 12:00:01]** (939/2000) perf(cache): update localization files and currency formatters
 - **[2024-08-02 14:38:31]** (940/2000) style(auth): implement responsive layout adjustments
+- **[2024-08-02 16:31:01]** (941/2000) docs(catalog): fine-tune dark mode color palette
