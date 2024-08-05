@@ -960,3 +960,4 @@
 - **[2024-08-05 09:21:34]** (958/2000) test(navigation): streamline network interceptors and retry policy
 - **[2024-08-05 10:07:04]** (959/2000) chore(cache): update localization files and currency formatters
 - **[2024-08-05 12:00:34]** (960/2000) feat(auth): implement responsive layout adjustments
+- **[2024-08-05 14:38:04]** (961/2000) fix(catalog): fine-tune dark mode color palette
